@@ -14,6 +14,7 @@ public class ViewDataActivity extends AppCompatActivity {
     TextView heading;
     ListView listView;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
